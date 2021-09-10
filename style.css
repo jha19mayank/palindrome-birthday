@@ -1,0 +1,34 @@
+body {
+  background-color: burlywood;
+  text-align: center;
+}
+
+h1 {
+  font-style: italic;
+  color: rgb(0, 47, 255);
+  margin: 2rem;
+}
+
+input {
+  font-size: 45px;
+  padding: 2rem;
+  border-radius: 7px;
+  color: rgb(87, 252, 11);
+  background-color: darkorange;
+}
+
+button {
+  margin: 1rem;
+  cursor: pointer;
+  padding: 1rem;
+  border-radius: 10px;
+  background-color: coral;
+  color: white;
+  font-size: large;
+}
+
+#output-box {
+  color: white;
+  font-size: large;
+  font-style: italic;
+}
