@@ -13,8 +13,7 @@ input {
   font-size: 45px;
   padding: 2rem;
   border-radius: 7px;
-  color: rgb(87, 252, 11);
-  background-color: darkorange;
+  color: rgb(5, 194, 169);
 }
 
 button {
@@ -28,7 +27,8 @@ button {
 }
 
 #output-box {
-  color: white;
-  font-size: large;
+  color: black;
+  font-size: 2rem;
   font-style: italic;
+  margin-top: 1rem;
 }
